@@ -1,1 +1,1 @@
-# Pandas-Foundation
+# Pandas Foundation
